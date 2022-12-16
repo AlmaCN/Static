@@ -2,6 +2,10 @@ package it.develhope.exercise;
 
 public class Tester {
 
+    /*
+    Ho creato la classe tester in cui ho creato due employee e due badge, ed infine ho stampato i dettagli dei due
+    employee attraverso il metodo showBadgeDetails
+     */
     public static void main(String[] args) {
 
         Employee employee1 = new Employee("Alma", "Caciula", "Via Cibrario");
